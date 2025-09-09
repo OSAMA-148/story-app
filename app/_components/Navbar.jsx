@@ -16,7 +16,7 @@ function Navbar() {
             </h1>
 
             <div className="flex gap-6 items-center">
-                <Link className="font-bold text-[#db8cb3]" href="/">
+                <Link className="font-bold text-[#db8cb3]" href="/dashboard">
                     Home
                 </Link>
                 <Link className="font-bold text-[#db8cb3]" href="/create-story">
