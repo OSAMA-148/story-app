@@ -35,7 +35,7 @@ export function AppSidebar() {
         {
             title: "Setting",
             icon: Settings,
-            path: "/settings",
+            path: "/dashboard/settings",
         },
     ];
     return (

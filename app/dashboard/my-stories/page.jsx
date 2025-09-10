@@ -110,7 +110,6 @@ function MyStoriesPage() {
                                         {story?.content?.story?.ageGroup}
                                     </small>
 
-                                    {/* <p className='truncate'>{story?.content?.story?.description}</p> */}
                                 </div>
                             </div>
                         </Link>
